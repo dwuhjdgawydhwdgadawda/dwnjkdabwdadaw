@@ -7,7 +7,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
     Icon = "rbxassetid://132828913064443",
     Duration = 8
 })
-wait(1)
+wait(9)
 game:GetService("StarterGui"):SetCore("SendNotification",{
     Title = "!dsc.gg/roapi",
     Text = "dsc.gg/roapi",
